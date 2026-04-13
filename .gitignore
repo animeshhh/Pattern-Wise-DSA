@@ -1,1 +1,12 @@
+# macOS
 .DS_Store
+
+# VS Code
+.vscode/
+
+# Build files
+*.out
+*.exe
+
+# Misc
+*.log
