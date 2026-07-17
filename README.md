@@ -161,6 +161,7 @@ GitHub: [https://github.com/animeshhh](https://github.com/anbimeshhh)
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0073-set-matrix-zeroes) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -189,8 +190,13 @@ GitHub: [https://github.com/animeshhh](https://github.com/anbimeshhh)
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0012-integer-to-roman) |
+| [0073-set-matrix-zeroes](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0012-integer-to-roman) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
