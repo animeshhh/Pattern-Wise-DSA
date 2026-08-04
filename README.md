@@ -162,6 +162,7 @@ GitHub: [https://github.com/animeshhh](https://github.com/anbimeshhh)
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0073-set-matrix-zeroes) |
+| [3731-find-missing-elements](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -176,6 +177,7 @@ GitHub: [https://github.com/animeshhh](https://github.com/anbimeshhh)
 ## Sorting
 |  |
 | ------- |
+| [3731-find-missing-elements](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -191,6 +193,7 @@ GitHub: [https://github.com/animeshhh](https://github.com/anbimeshhh)
 | ------- |
 | [0012-integer-to-roman](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0073-set-matrix-zeroes) |
+| [3731-find-missing-elements](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
