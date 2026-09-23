@@ -174,6 +174,7 @@ GitHub: [https://github.com/animeshhh](https://github.com/anbimeshhh)
 ## Two Pointers
 |  |
 | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -207,4 +208,8 @@ GitHub: [https://github.com/animeshhh](https://github.com/anbimeshhh)
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
