@@ -174,6 +174,7 @@ GitHub: [https://github.com/animeshhh](https://github.com/anbimeshhh)
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -195,6 +196,7 @@ GitHub: [https://github.com/animeshhh](https://github.com/anbimeshhh)
 | ------- |
 | [0012-integer-to-roman](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0141-linked-list-cycle) |
 | [3731-find-missing-elements](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -211,5 +213,10 @@ GitHub: [https://github.com/animeshhh](https://github.com/anbimeshhh)
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0876-middle-of-the-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
