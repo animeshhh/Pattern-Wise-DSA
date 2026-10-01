@@ -175,6 +175,7 @@ GitHub: [https://github.com/animeshhh](https://github.com/anbimeshhh)
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -200,6 +201,7 @@ GitHub: [https://github.com/animeshhh](https://github.com/anbimeshhh)
 | [0012-integer-to-roman](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [3731-find-missing-elements](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/3731-find-missing-elements) |
 ## String
@@ -218,6 +220,7 @@ GitHub: [https://github.com/animeshhh](https://github.com/anbimeshhh)
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -226,6 +229,7 @@ GitHub: [https://github.com/animeshhh](https://github.com/anbimeshhh)
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Stack
 |  |
 | ------- |
