@@ -177,6 +177,7 @@ GitHub: [https://github.com/animeshhh](https://github.com/anbimeshhh)
 | [0141-linked-list-cycle](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -217,6 +218,7 @@ GitHub: [https://github.com/animeshhh](https://github.com/anbimeshhh)
 | [0141-linked-list-cycle](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -225,6 +227,7 @@ GitHub: [https://github.com/animeshhh](https://github.com/anbimeshhh)
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0234-palindrome-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
