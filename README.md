@@ -162,6 +162,7 @@ GitHub: [https://github.com/animeshhh](https://github.com/anbimeshhh)
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0073-set-matrix-zeroes) |
+| [1019-next-greater-node-in-linked-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3731-find-missing-elements](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -232,6 +233,7 @@ GitHub: [https://github.com/animeshhh](https://github.com/anbimeshhh)
 | [0160-intersection-of-two-linked-lists](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -246,10 +248,15 @@ GitHub: [https://github.com/animeshhh](https://github.com/anbimeshhh)
 | ------- |
 | [0143-reorder-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0234-palindrome-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0234-palindrome-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
