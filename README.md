@@ -174,6 +174,7 @@ GitHub: [https://github.com/animeshhh](https://github.com/anbimeshhh)
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -267,5 +268,6 @@ GitHub: [https://github.com/animeshhh](https://github.com/anbimeshhh)
 ## Greedy
 |  |
 | ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
