@@ -218,6 +218,7 @@ GitHub: [https://github.com/animeshhh](https://github.com/anbimeshhh)
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0012-integer-to-roman) |
+| [0678-valid-parenthesis-string](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0678-valid-parenthesis-string) |
 ## Matrix
 |  |
 | ------- |
@@ -254,6 +255,7 @@ GitHub: [https://github.com/animeshhh](https://github.com/anbimeshhh)
 | ------- |
 | [0143-reorder-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0678-valid-parenthesis-string) |
 | [1019-next-greater-node-in-linked-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -268,6 +270,15 @@ GitHub: [https://github.com/animeshhh](https://github.com/anbimeshhh)
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0678-valid-parenthesis-string) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
