@@ -218,6 +218,7 @@ GitHub: [https://github.com/animeshhh](https://github.com/anbimeshhh)
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0678-valid-parenthesis-string) |
 ## Matrix
 |  |
@@ -253,6 +254,7 @@ GitHub: [https://github.com/animeshhh](https://github.com/anbimeshhh)
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0678-valid-parenthesis-string) |
@@ -280,5 +282,6 @@ GitHub: [https://github.com/animeshhh](https://github.com/anbimeshhh)
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
