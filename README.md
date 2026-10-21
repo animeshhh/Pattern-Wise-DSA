@@ -220,6 +220,7 @@ GitHub: [https://github.com/animeshhh](https://github.com/anbimeshhh)
 | [0012-integer-to-roman](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0678-valid-parenthesis-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Matrix
 |  |
 | ------- |
