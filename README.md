@@ -163,6 +163,7 @@ GitHub: [https://github.com/animeshhh](https://github.com/anbimeshhh)
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0073-set-matrix-zeroes) |
 | [1019-next-greater-node-in-linked-list](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/1019-next-greater-node-in-linked-list) |
+| [1480-running-sum-of-1d-array](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/3731-find-missing-elements) |
@@ -287,4 +288,8 @@ GitHub: [https://github.com/animeshhh](https://github.com/anbimeshhh)
 | ------- |
 | [0020-valid-parentheses](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/0678-valid-parenthesis-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/animeshhh/Pattern-Wise-DSA/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
